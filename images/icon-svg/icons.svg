@@ -121,11 +121,14 @@
             d="M28.444 4.334v23.332h-24.888v-23.332h24.888zM28.444 1h-24.888c-1.956 0-3.556 1.5-3.556 3.334v23.332c0 1.834 1.6 3.334 3.556 3.334h24.888c1.956 0 3.556-1.5 3.556-3.334v-23.332c0-1.834-1.6-3.334-3.556-3.334z">
          </path>
       </symbol>
-      <symbol id="icon-check-mark" viewBox="0 0 32 32">
-         <path style="" stroke="" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.4"
+
+      <symbol id="icon-check" viewBox="0 0 32 32">
+         <path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff"
+            stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.4"
             d="M7.914 16.504l-0.138-0.132-0.138 0.13-1.928 1.828 0.152 0.146 7.13 6.8 0.138-0.132 15.16-14.462-0.152-0.144-1.902-1.814-0.138 0.132-13.106 12.492-5.078-4.844z">
          </path>
       </symbol>
+
 
    </defs>
 </svg>
